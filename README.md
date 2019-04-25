@@ -53,9 +53,9 @@ Distributed Systems and Cloud TPUs." to appear in Transactions on Parallel and D
 
 
 # Contact Information
-3.226 Advanced Computing Building
-Texas Advanced Computing Center
-10100 Burnet Road
-Austin, TX 78758
+3.226 Advanced Computing Building  
+Texas Advanced Computing Center  
+10100 Burnet Road  
+Austin, TX 78758  
 
 zzhang (at) tacc.utexas.edu
