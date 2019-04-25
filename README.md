@@ -54,10 +54,12 @@ Distributed Systems and Cloud TPUs." to appear in Transactions on Parallel and D
 
 # Contact Information
 ### Contact Information:
-Office
 3.226 Advanced Computing Building
+
 Texas Advanced Computing Center
+
 10100 Burnet Road
+
 Austin, TX 78758
 
 ### Email
