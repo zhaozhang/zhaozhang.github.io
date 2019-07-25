@@ -6,10 +6,11 @@ Before joining TACC, I spent two years as a postdoc researcher in AMPLab and BID
 I have a wide interest in distributed computing, high performance computing, applied machine learning and applying the computing techniques to solve big data problems. I am also interested in data management systems for domain science research and discovery.
 
 # Research Projects
-## Present
+
+### Present
 - Scalable Deep Learning on Supercomputers
 
-## Past
+### Past
 - [KeystoneML](http://keystone-ml.org/)
 - [KIRA: where Astronomy meets Big Data](http://kira-project.org/)
 - [Tachyon: A Memory-centric distributed file system](http://tachyon-project.org/)
@@ -24,8 +25,9 @@ I have a wide interest in distributed computing, high performance computing, app
 My publication list can be found on [Google Scholar](http://scholar.google.com/citations?user=0bd5fscAAAAJ&hl=en)
 
 ## Latest Paper
-- Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. "Fast Deep Neural Network Training on
-Distributed Systems and Cloud TPUs." to appear in Transactions on Parallel and Distributed Systems (TPDS).
+- Z. Zhang, L. Huang, R. Huang, W. Xu, D. S. Katz. "Quantifying the Impact of Memory Errors in Deep Learning". to appear in IEEE CLUSTER 2019.
+- Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. ["Fast Deep Neural Network Training on
+Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/8703162) IEEE Transactions on Parallel and Distributed Systems (2019).
 - Zhang, Zhao, Lei Huang, Uri Manor, Linjing Fang, Gabriele Merlo, Craig Michoski, John Cazes, and Niall Gaffney. ["FanStore: Enabling Efficient and Scalable I/O for Distributed Deep Learning."](https://arxiv.org/abs/1809.10799) arXiv preprint arXiv:1809.10799 (2018).
 - Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. ["ImageNet Training in Minutes."](https://dl.acm.org/citation.cfm?id=3225069) In Proceedings of the 47th International Conference on Parallel Processing, p. 1. ACM, 2018.
 - Z. Zhang, E. R. Sparks, and M. J. Franklin. ["Diagnosing machine learning pipelines with fine-grained lineage."](https://dl.acm.org/citation.cfm?id=3078603) In Proceedings of the 26th International Symposium on High-Performance Parallel and Distributed Computing, pp. 143-153. ACM, 2017.
