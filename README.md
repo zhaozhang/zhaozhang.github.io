@@ -27,7 +27,7 @@ My publication list can be found on [Google Scholar](http://scholar.google.com/c
 ## Latest Paper
 - Z. Zhang, L. Huang, R. Huang, W. Xu, D. S. Katz. "Quantifying the Impact of Memory Errors in Deep Learning". to appear in IEEE CLUSTER 2019.
 - Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. ["Fast Deep Neural Network Training on
-Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/8703162) IEEE Transactions on Parallel and Distributed Systems (2019).
+Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/8703162) in IEEE Transactions on Parallel and Distributed Systems (2019).
 - Zhang, Zhao, Lei Huang, Uri Manor, Linjing Fang, Gabriele Merlo, Craig Michoski, John Cazes, and Niall Gaffney. ["FanStore: Enabling Efficient and Scalable I/O for Distributed Deep Learning."](https://arxiv.org/abs/1809.10799) arXiv preprint arXiv:1809.10799 (2018).
 - Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. ["ImageNet Training in Minutes."](https://dl.acm.org/citation.cfm?id=3225069) In Proceedings of the 47th International Conference on Parallel Processing, p. 1. ACM, 2018.
 - Z. Zhang, E. R. Sparks, and M. J. Franklin. ["Diagnosing machine learning pipelines with fine-grained lineage."](https://dl.acm.org/citation.cfm?id=3078603) In Proceedings of the 26th International Symposium on High-Performance Parallel and Distributed Computing, pp. 143-153. ACM, 2017.
