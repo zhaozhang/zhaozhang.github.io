@@ -25,7 +25,7 @@ I have a wide interest in distributed computing, high performance computing, app
 My publication list can be found on [Google Scholar](http://scholar.google.com/citations?user=0bd5fscAAAAJ&hl=en)
 
 ## Latest Paper
-- Z. Zhang, L.Huang, J. G. Pauloski, I. T. Foster. ["Efficient Distributed Neural Network Training with Compressed Data"]() to appear in 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS).
+- Z. Zhang, L.Huang, J. G. Pauloski, I. T. Foster. ["Efficient I/O for Neural Network Training with Compressed Data"]() to appear in 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS).
 - Z. Zhang, L. Huang, R. Huang, W. Xu, D. S. Katz. ["Quantifying the Impact of Memory Errors in Deep Learning."](https://ieeexplore.ieee.org/document/8890989) In 2019 IEEE International Conference on Cluster Computing (CLUSTER), p.1. IEEE, 2019.
 - Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. ["Fast Deep Neural Network Training on
 Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/8703162) in IEEE Transactions on Parallel and Distributed Systems (2019).
