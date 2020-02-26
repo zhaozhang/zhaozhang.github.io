@@ -3,8 +3,10 @@ I am a computer scientist in the Data Intensive Computing Group at Texas Advance
 Before joining TACC, I spent two years as a postdoc researcher in AMPLab and BIDS (Berkeley Institute of Data Science) at University of California, Berkeley, working with Prof. Michael J. Franklin. I received my Ph.D from Department of Computer Science at University of Chicago in June, 2014 under the supervision of Prof. Ian Foster.
 
 # Research Interest
-I have a wide interest in distributed computing, high performance computing, applied machine learning and applying the computing techniques to solve big data problems. I am also interested in data management systems for domain science research and discovery.
+I have a wide interest in distributed computing, high performance computing, applied machine learning, and applying the computing techniques to solve big data problems. I am also interested in data management systems for domain science research and discovery.
+My recent research focus is scalable deep learning on supercomputers.
 
+<!---
 # Research Projects
 
 ### Present
@@ -19,6 +21,7 @@ I have a wide interest in distributed computing, high performance computing, app
 - [ExM: System support for extreme-scale, many-task applications](https://sites.google.com/site/exmcomputing/newhome)
 - [Swift: Fast easy parallel scripting - on multicores, clusters, clouds and supercomputers](http://www.ci.uchicago.edu/swift)
 - [Falkon: A fast and light-weight task execution framework](http://dev.globus.org/wiki/Incubator/Falkon)
+-->
 
 # Publications
 
