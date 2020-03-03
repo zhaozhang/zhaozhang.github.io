@@ -52,8 +52,8 @@ Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/87031
 
 
 # Services
-- Program Comittee Member, SC'20
-- Proceedings Vice Chair (Main Conference), [IPDPS'20](http://www.ipdps.org/), New Orleans LA, USA
+- Program Committee Member, SC'20
+- Proceedings Vice-chair (Main Conference), [IPDPS'20](http://www.ipdps.org/), New Orleans LA, USA
 - Co-chair, [Deep Learning on Supercomputers workshop](https://dlonsc19.github.io/) in SC'19, Denver CO, USA 
 - Co-chair, [Deep Learning for Science workshop](https://dlonsc.github.io/) in ISC'19, Frankfurt, Germany
 - Co-chair, [Deep Learning on Supercomputers workshop](https://www.tacc.utexas.edu/workshop/2018/deep-learning) in SC'18, Dallas TX, USA
