@@ -59,6 +59,9 @@ Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/87031
 - Co-chair, [Deep Learning for Science workshop](https://dlonsc.github.io/) in ISC'19, Frankfurt, Germany
 - Co-chair, [Deep Learning on Supercomputers workshop](https://www.tacc.utexas.edu/workshop/2018/deep-learning) in SC'18, Dallas TX, USA
 
+# Students Advised
+- [J. Greg Pauloski](https://gregpauloski.com/), Ph.D student in CS UChicago.
+- Qi Huang, Software Engineer at Bloomberg.
 
 # Contact Information
 3.226 Advanced Computing Building  
