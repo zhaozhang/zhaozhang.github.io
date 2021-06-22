@@ -10,8 +10,8 @@ My recent research focus is scalable deep learning on supercomputers.
 
 ### Present
 - Scalable Deep Learning on Supercomputers
-- Efficient and Policy-driven Burst Buffer Sharing (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388&HistoricalAwards=false)
-- Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems (https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354&HistoricalAwards=false)
+- [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388&HistoricalAwards=false)
+- [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354&HistoricalAwards=false)
 
 <!---
 # Research Projects
