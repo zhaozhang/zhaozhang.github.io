@@ -8,7 +8,6 @@ My recent research focus is scalable deep learning on supercomputers.
 
 # Research Projects
 
-### Present
 - Scalable Deep Learning on Supercomputers
 - [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388&HistoricalAwards=false)
 - [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354&HistoricalAwards=false)
@@ -37,7 +36,7 @@ My recent research focus is scalable deep learning on supercomputers.
 
 My publication list can be found on [Google Scholar](http://scholar.google.com/citations?user=0bd5fscAAAAJ&hl=en)
 
-## Latest Paper
+### Latest Paper
 - [SC'21] J. G. Pauloski, Q. Huang, L. Huang, K. Chard, I. T. Foster, Z. Zhang. ["KAISA: An Adaptive Second-order Optimizer Framework for Deep Neural Networks"]() to appear in Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, 2021 (SC).
 - [SC'20] J. G. Pauloski, Z. Zhang, L. Huang, W. Xu, I. T. Foster. ["Convolutional Neural Network Training with Distributed K-FAC"](https://dl.acm.org/doi/abs/10.5555/3433701.3433826) In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-14. 2020.
 - [IPDPS'20] Z. Zhang, L. Huang, J. G. Pauloski, I. T. Foster. ["Efficient I/O for Neural Network Training with Compressed Data"](https://ieeexplore.ieee.org/abstract/document/9139800/) In 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 409-418. IEEE, 2020.
@@ -47,7 +46,7 @@ Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/87031
 - [ICPP'18] Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. ["ImageNet Training in Minutes."](https://dl.acm.org/citation.cfm?id=3225069) In Proceedings of the 47th International Conference on Parallel Processing, p. 1. ACM, 2018. Best Paper Award.
 - [HPDC'17] Z. Zhang, E. R. Sparks, and M. J. Franklin. ["Diagnosing machine learning pipelines with fine-grained lineage."](https://dl.acm.org/citation.cfm?id=3078603) In Proceedings of the 26th International Symposium on High-Performance Parallel and Distributed Computing, pp. 143-153. ACM, 2017.
 
-## Previous Paper
+### Previous Paper
 - [FGCS'16] D. S. Katz, A. Merzky, Z. Zhang, S. Jha. ["Application Skeletons: Construction and Use in eScience."](https://www.sciencedirect.com/science/article/pii/S0167739X15003143) Future Generation Computer Systems 59 (2016): 114-124.
 - [IPDPS'16] M. Turilli, F. Liu, Z. Zhang, A. Merzky, M. Wilde, J. Weissman, D. S. Katz, and S. Jha. ["Integrating abstractions to enhance the execution of distributed applications."](https://ieeexplore.ieee.org/abstract/document/7516092/) In 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 953-962. IEEE, 2016.
 - [BigData'16] Z. Zhang, K. Barbary, F. A. Nothaft, E. R. Sparks, O. Zahn, M. J. Franklin, D. A. Patterson, and S. Perlmutter. ["Kira: Processing astronomy imagery using big data technology."](https://ieeexplore.ieee.org/abstract/document/7549106/) IEEE Transactions on Big Data (2016).
