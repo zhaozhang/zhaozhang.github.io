@@ -28,11 +28,12 @@ My recent research focus is scalable deep learning on supercomputers.
 My publication list can be found on [Google Scholar](http://scholar.google.com/citations?user=0bd5fscAAAAJ&hl=en)
 
 ## Latest Paper
-- [SC'20] J. G. Pauloski, Z. Zhang, L. Huang, W. Xu, I. T. Foster. ["Convolutional Neural Network Training with Distributed K-FAC"]() to appear in In Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, 2020 (SC).
-- [IPDPS'20] Z. Zhang, L. Huang, J. G. Pauloski, I. T. Foster. ["Efficient I/O for Neural Network Training with Compressed Data"]() to appear in 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS).
+- [SC'21] J. G. Pauloski, Q. Huang, L. Huang, K. Chard, I. T. Foster, Z. Zhang. ["KAISA: An Adaptive Second-order Optimizer Framework for Deep Neural Networks"]() to appear in Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, 2021 (SC).
+- [SC'20] J. G. Pauloski, Z. Zhang, L. Huang, W. Xu, I. T. Foster. ["Convolutional Neural Network Training with Distributed K-FAC"](https://dl.acm.org/doi/abs/10.5555/3433701.3433826) In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-14. 2020.
+- [IPDPS'20] Z. Zhang, L. Huang, J. G. Pauloski, I. T. Foster. ["Efficient I/O for Neural Network Training with Compressed Data"](https://ieeexplore.ieee.org/abstract/document/9139800/) In 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 409-418. IEEE, 2020.
 - [CLUSTER'19] Z. Zhang, L. Huang, R. Huang, W. Xu, D. S. Katz. ["Quantifying the Impact of Memory Errors in Deep Learning."](https://ieeexplore.ieee.org/document/8890989) In 2019 IEEE International Conference on Cluster Computing (CLUSTER), p.1. IEEE, 2019.
 - [TPDS'19] Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. ["Fast Deep Neural Network Training on
-Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/8703162) in IEEE Transactions on Parallel and Distributed Systems (2019).
+Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/8703162) IEEE Transactions on Parallel and Distributed Systems 30, no. 11 (2019): 2449-2462.
 - [ICPP'18] Y. You, Z. Zhang, J. Demmel, K. Keutzer, C. Hsieh. ["ImageNet Training in Minutes."](https://dl.acm.org/citation.cfm?id=3225069) In Proceedings of the 47th International Conference on Parallel Processing, p. 1. ACM, 2018. Best Paper Award.
 - [HPDC'17] Z. Zhang, E. R. Sparks, and M. J. Franklin. ["Diagnosing machine learning pipelines with fine-grained lineage."](https://dl.acm.org/citation.cfm?id=3078603) In Proceedings of the 26th International Symposium on High-Performance Parallel and Distributed Computing, pp. 143-153. ACM, 2017.
 
