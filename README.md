@@ -62,11 +62,10 @@ Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/87031
 
 
 # Services
-- Program Committee Member, SC'20
+- Program Committee Member, SC'20, SC'21
 - Proceedings Vice-chair (Main Conference), [IPDPS'20](http://www.ipdps.org/), New Orleans LA, USA
-- Co-chair, [Deep Learning on Supercomputers workshop](https://dlonsc19.github.io/) in SC'19, Denver CO, USA 
-- Co-chair, [Deep Learning for Science workshop](https://dlonsc.github.io/) in ISC'19, Frankfurt, Germany
-- Co-chair, [Deep Learning on Supercomputers workshop](https://www.tacc.utexas.edu/workshop/2018/deep-learning) in SC'18, Dallas TX, USA
+- Co-chair, [Deep Learning on Supercomputers workshop](https://dlonsc.github.io/) in SC'18, SC'19, SC'20
+- Co-chair, [Deep Learning for Science workshop](https://dlonsc.github.io/) in ISC'19, ISC'21, Frankfurt, Germany
 
 # Students Advised
 - [J. Greg Pauloski](https://gregpauloski.com/), Ph.D student in CS UChicago.
