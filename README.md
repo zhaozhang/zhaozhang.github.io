@@ -7,7 +7,7 @@ I have a wide interest in distributed computing, high performance computing, app
 My recent research focus is scalable deep learning on supercomputers.
 
 # Research Projects
-- Scalable Deep Learning on Supercomputers
+- [Scalable Deep Learning on Supercomputers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661&HistoricalAwards=false)
 - [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388&HistoricalAwards=false)
 - [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354&HistoricalAwards=false)
 
