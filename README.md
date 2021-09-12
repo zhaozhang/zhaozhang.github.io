@@ -5,6 +5,7 @@ Before joining TACC, I spent two years as a postdoc researcher in AMPLab and BID
 # Research Interest
 I have a wide interest in distributed computing, high performance computing, applied machine learning, and applying the computing techniques to solve big data problems. I am also interested in data management systems for domain science research and discovery.
 My recent research focus is scalable deep learning on supercomputers.
+My cv is [here](cv/zhao-cv.pdf).
 
 # Research Projects
 - [Scalable Deep Learning on Supercomputers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661&HistoricalAwards=false)
