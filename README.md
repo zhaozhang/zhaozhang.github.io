@@ -38,7 +38,7 @@ My cv is [here](cv/zhao-cv.pdf).
 My publication list can be found on [Google Scholar](http://scholar.google.com/citations?user=0bd5fscAAAAJ&hl=en)
 
 ### Latest Paper
-- [TPDS'22] J. G. Pauloski, L. Huang, W. Xu, I. T. Foster, Z. Zhang. ["Deep Neural Network Training with Distributed K-FAC"] to appear in IEEE Transactions on Parallel and Distributed Systems, 2022
+- [TPDS'22] J. G. Pauloski, L. Huang, W. Xu, I. T. Foster, Z. Zhang. ["Deep Neural Network Training with Distributed K-FAC"] in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2022.3161187.
 - [SC'21] J. G. Pauloski, Q. Huang, L. Huang, K. Chard, I. T. Foster, Z. Zhang. ["KAISA: An Adaptive Second-order Optimizer Framework for Deep Neural Networks"](https://arxiv.org/pdf/2107.01739.pdf) to appear in Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, 2021 (SC).
 - [SC'20] J. G. Pauloski, Z. Zhang, L. Huang, W. Xu, I. T. Foster. ["Convolutional Neural Network Training with Distributed K-FAC"](https://dl.acm.org/doi/abs/10.5555/3433701.3433826) In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-14. 2020.
 - [IPDPS'20] Z. Zhang, L. Huang, J. G. Pauloski, I. T. Foster. ["Efficient I/O for Neural Network Training with Compressed Data"](https://ieeexplore.ieee.org/abstract/document/9139800/) In 2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 409-418. IEEE, 2020.
