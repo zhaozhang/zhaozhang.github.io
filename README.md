@@ -71,8 +71,11 @@ Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/87031
 - Co-chair, [Deep Learning for Science workshop](https://dlonsc.github.io/) in ISC'19, ISC'21, Frankfurt, Germany
 
 # Students Advised
-- [J. Greg Pauloski](https://gregpauloski.com/), Ph.D student in CS UChicago.
-- Qi Huang, Software Engineer at Bloomberg.
+- Ishank Arora, MS in CS 2022, Softwware Engineer at Apple.
+- Shreyas Kudari, BS in ECE 2022, Software Engineer at Meta.
+- Qi Huang, MS in CS 2021, Software Engineer at Bloomberg.
+- [J. Greg Pauloski](https://gregpauloski.com/), BS in CS 2020, Ph.D student in CS UChicago.
+
 
 # Contact Information
 3.226 Advanced Computing Building  
