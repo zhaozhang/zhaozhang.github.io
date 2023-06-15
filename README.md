@@ -1,4 +1,6 @@
-I am a computer scientist and I lead [the learning (scalable computing intelligence) group](https://learning-tacc.github.io/) in the Data Intensive Computing Group at Texas Advanced Computing Center.
+I am joining Rutgers ECE as an assistant professor starting Fall 2023.
+
+I am a computer scientist and I lead [the scalable computing intelligence group](https://learning-tacc.github.io/) in the Data Intensive Computing Group at Texas Advanced Computing Center.
 
 Before joining TACC, I spent two years as a postdoc researcher in AMPLab and BIDS (Berkeley Institute of Data Science) at University of California, Berkeley, working with Prof. Michael J. Franklin. I received my Ph.D from Department of Computer Science at University of Chicago in June, 2014 under the supervision of Prof. Ian Foster.
 
@@ -9,7 +11,7 @@ My cv is [here](cv/zhao-cv.pdf).
 
 # Research Projects
 - [ICICLE AI Institute](https://icicle.osu.edu/)
-- [Scalable Deep Learning on Supercomputers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661)
+- [New Optimization Methods](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661)
 - [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388)
 - [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354)
 
