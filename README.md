@@ -40,7 +40,7 @@ My cv is [here](cv/zhao-cv.pdf).
 My publication list can be found on [Google Scholar](http://scholar.google.com/citations?user=0bd5fscAAAAJ&hl=en)
 
 ### Highlighted Recent Papers
-- [SC'23-1] Q. Ding, P. Zheng, S. Kudari, S. Venkataraman, Z. Zhang. "Towards Low-interruption Services on Batch GPU Clusters with Reinforcement Learning" to appear in SC'23.
+- [SC'23-1] Q. Ding, P. Zheng, S. Kudari, S. Venkataraman, Z. Zhang. ["Mirage: Towards Low-interruption Services on Batch GPU Clusters with Reinforcement Learning"](https://arxiv.org/abs/2306.14086) to appear in SC'23.
 - [SC'23-2] E. Karrels, L. Huang, Y. Kan, I. Arora, Y. Wang, D. S. Katz, B. D. Gropp, Z. Zhang. ["Fine-grained Policy-driven I/O Sharing for Burst Buffers"](https://arxiv.org/abs/2306.11615) to appear in SC'23.
 - [TPDS'22] J. G. Pauloski, L. Huang, W. Xu, I. T. Foster, Z. Zhang. ["Deep Neural Network Training with Distributed K-FAC"](https://ieeexplore.ieee.org/document/9739867) in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2022.3161187.
 - [SC'21] J. G. Pauloski, Q. Huang, L. Huang, S. Venkataraman, K. Chard, I. T. Foster, Z. Zhang. ["KAISA: An Adaptive Second-order Optimizer Framework for Deep Neural Networks"](https://arxiv.org/pdf/2107.01739.pdf) to appear in Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, 2021 (SC).
