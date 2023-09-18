@@ -1,7 +1,8 @@
 I am an assistant professor in the [Department of Electrical and Computer Engineering](https://www.ece.rutgers.edu/) at Rutgers University.
 
-Before joining Rutgers, I was a computer scientist and I lead [the scalable computing intelligence group](https://learning-tacc.github.io/) in the Data Intensive Computing Group at Texas Advanced Computing Center.
-I spent two years as a postdoc researcher in AMPLab and BIDS (Berkeley Institute of Data Science) at University of California, Berkeley, working with Prof. Michael J. Franklin after I received my Ph.D from Department of Computer Science at University of Chicago in June, 2014 under the supervision of Prof. Ian Foster.
+Before joining Rutgers, I was a computer scientist in the Data Intensive Computing Group at Texas Advanced Computing Center.
+From 2014 to 2016, I spent two years as a postdoc researcher in AMPLab and BIDS (Berkeley Institute of Data Science) at University of California, Berkeley, working with Prof. Michael J. Franklin.
+I received my Ph.D from Department of Computer Science at University of Chicago in June, 2014 under the supervision of Prof. Ian Foster.
 
 # Research Interest
 I have a wide interest in distributed computing, high performance computing, applied machine learning, and applying the computing techniques to solve big data problems. I am also interested in data management systems for domain science research and discovery.
