@@ -10,7 +10,9 @@ My recent research focus is scalable deep learning on supercomputers.
 My cv is [here](cv/zhao-cv.pdf).
 
 # Research Projects
-<!-- - [ICICLE AI Institute](https://icicle.osu.edu/)-->
+- [Diamond: Democratizing Large Neural Network Model Training for Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311766) 
+- [Fortuna: Characterizing and Harnessing Performance Variability in Accelerator-rich Clusters](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312689) 
+- [ICICLE AI Institute](https://icicle.osu.edu/)
 - [New Optimization Methods](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661)
 - [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388)
 - [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354)
