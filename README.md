@@ -10,15 +10,19 @@ My recent research focus is scalable deep learning on supercomputers.
 My cv is [here](cv/zhao-cv.pdf).
 
 # Research Projects
-- [Diamond: Democratizing Large Neural Network Model Training for Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311766) 
-- [Fortuna: Characterizing and Harnessing Performance Variability in Accelerator-rich Clusters](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2312689) 
+- [CAREER: Efficient and Scalable Large Foundational Model Training on Supercomputers for Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340011)
+- [Diamond: Democratizing Large Neural Network Model Training for Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=240124) 
+- [Fortuna: Characterizing and Harnessing Performance Variability in Accelerator-rich Clusters](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2401244) 
 - [ICICLE AI Institute](https://icicle.osu.edu/)
 - [New Optimization Methods](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661)
-- [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388)
-- [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354)
+
 
 <!---
 # Research Projects
+- [Efficient and Policy-driven Burst Buffer Sharing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008388)
+- [Designing Next-Generation MPI Libraries for Emerging Dense GPU Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931354)
+
+
 
 ### Present
 - Scalable Deep Learning on Supercomputers
@@ -75,23 +79,34 @@ Distributed Systems and Cloud TPUs."](https://ieeexplore.ieee.org/document/87031
 
 
 # Services
-- IEEE TPDS Review Boards, 2022-present
-- Program Committee Member, SC'20, SC'21
+- Program Committee Member, SC'24, SC'22-20
+- Program Committee Member, IPDPS'24
+- Program Committee Member, ICPP'24-23
+- Program Committee Member, HPDC'23
+- IEEE TPDS Review Boards, 2022-2023
 - Proceedings Vice-chair (Main Conference), [IPDPS'20](http://www.ipdps.org/), New Orleans LA, USA
 - Co-chair, [Deep Learning on Supercomputers workshop](https://dlonsc.github.io/) in SC'18, SC'19, SC'20
 - Co-chair, [Deep Learning for Science workshop](https://dlonsc.github.io/) in ISC'19, ISC'21, Frankfurt, Germany
 
-# Students Advised
-- Ishank Arora, MS in CS 2022, Softwware Engineer at Apple.
-- Shreyas Kudari, BS in ECE 2022, Software Engineer at Meta.
-- Qi Huang, MS in CS 2021, Software Engineer at Bloomberg.
-- [J. Greg Pauloski](https://gregpauloski.com/), BS in CS 2020, Ph.D student in CS UChicago.
+# Current Students
+- Shuyuan Fan
+- Jingxin Wang
+- Haotian Xie
+- Mingkai Zheng
+
+# Students Graduated
+- Yue Shangguan, MS in UT ECE, Software Engineer at Bloomberg.
+- Yuhong Kan, MS in UT CS, Software Engineer at Bloomberg.
+- Qiyang Ding, MS in UT ECE, Hardware Engineer at Apple.
+- Sikan Li, MS in UT ECE, Software Engineer at TACC.
+- Ishank Arora, MS in UT CS 2022, Softwware Engineer at Apple.
+- Shreyas Kudari, BS in UT ECE 2022, Software Engineer at Meta.
+- Qi Huang, MS in UT CS 2021, Software Engineer at Bloomberg.
+- [J. Greg Pauloski](https://gregpauloski.com/), BS in UT CS 2020, Ph.D student in CS UChicago.
 
 
 # Contact Information
-3.226 Advanced Computing Building  
-Texas Advanced Computing Center  
-10100 Burnet Road  
-Austin, TX 78758  
+94 Brett Rd,
+Piscataway, NJ 08854
 
-zzhang (at) tacc.utexas.edu
+zhao.zhang (at) rutgers.edu
