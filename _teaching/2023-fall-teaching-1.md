@@ -21,3 +21,15 @@ Calculus)
 - Basic knowledge of high-performance computing architecture is recom-
 mended
 - Prior CUDA knowledge is recommended
+
+Topics:
+======
+
+- Deep Learning Overview
+- Distributed Training Paradigms
+- Large-scale Optimization -- Alogirhtms
+- Large-scale Optimization -- Systems
+- Performance Profiling and Modeling
+- High-performance Computing Architecture
+- Sparsification in Deep Learning
+- I/O in Deep Learning
