@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Students"
+# title: "Students"
 permalink: /portfolio/
 author_profile: true
 ---
