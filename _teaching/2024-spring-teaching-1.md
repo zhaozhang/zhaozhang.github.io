@@ -1,11 +1,11 @@
 ---
 title: "Network Centric Programming"
 collection: teaching
-#type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-1
 #venue: "University 1, Department"
-#date: 2015-01-01
-#location: "City, Country"
+date: 2024-01-01
+location: "14:332:456:01"
 ---
 
 Advanced programming with a focus on developing software for networked systems using Linux as a reference platform. Topics: Programming Tools, Software Design, Environment of a UNIX Process, Memory Allocation, Garbage Collection, Process Control, Process Relationships, Signals, Reliable Signals, Threads, I/O Multiplexing, Datagram and Stream Sockets, Multicasting, Device Driver and Kernel Programming, Secure Programming.
