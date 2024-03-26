@@ -12,7 +12,7 @@ I am an assistant professor in the [Department of Electrical and Computer Engine
 Research Interest
 ======
 I have a wide interest in distributed computing, high performance computing, applied machine learning, and applying the computing techniques to solve big data problems. I am also interested in data management systems for domain science research and discovery.
-My recent research focus is scalable deep learning on supercomputers.
+My recent research focus is scalable deep learning on supercomputers. My cv is [here](../assets/zhao-cv.pdf).
 
 Research Projects
 ======
