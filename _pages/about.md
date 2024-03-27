@@ -14,14 +14,5 @@ Research Interest
 I have a wide interest in distributed computing, high performance computing, applied machine learning, and applying the computing techniques to solve big data problems. I am also interested in data management systems for domain science research and discovery.
 My recent research focus is scalable deep learning on supercomputers. My cv is [here](../assets/zhao-cv.pdf).
 
-Research Projects
-======
-- [CAREER: Efficient and Scalable Large Foundational Model Training on Supercomputers for Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340011)
-- [Diamond: Democratizing Large Neural Network Model Training for Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2401245) 
-- [Fortuna: Characterizing and Harnessing Performance Variability in Accelerator-rich Clusters](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2401244) 
-- [ICICLE AI Institute](https://icicle.osu.edu/)
-- [New Optimization Methods](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106661)
-
-
 
 
