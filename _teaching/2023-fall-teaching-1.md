@@ -8,7 +8,7 @@ date: 2023-09-01
 #location: "16:332:579:08"
 ---
 
-This is a cross-listed (graduate level course with the focus of system perspectives in distributed deep learning. The goal of this course is to develop comprehen- sive and deep understanding of internals of deep learning systems to inspire and foster students’ future research direction. This course covers a wide range of topics of neural network architecture, optimization methods, parallel training paradigms, high-performance computing architecture, and communication algo- rithms. This course conveys the principles of distributed/parallel system design with the state-of-the-art deep learning progress.
+This is a cross-listed course with the focus of system perspectives in distributed deep learning. The goal of this course is to develop comprehensive and deep understanding of internals of deep learning systems to inspire and foster students’ future research direction. This course covers a wide range of topics of neural network architecture, optimization methods, parallel training paradigms, high-performance computing architecture, and communication algorithms. This course conveys the principles of distributed/parallel system design with the state-of-the-art deep learning progress.
 
 Prerequisite:
 ======
