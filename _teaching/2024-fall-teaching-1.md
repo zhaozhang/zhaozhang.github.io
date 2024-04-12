@@ -10,7 +10,7 @@ date: 2024-09-01
 
 This is a cross-listed course with the focus of system perspectives in distributed deep learning. The goal of this course is to develop comprehensive and deep understanding of internals of deep learning systems to inspire and foster students’ future research direction. This course covers a wide range of topics of neural network architecture, optimization methods, parallel training paradigms, high-performance computing architecture, and communication algorithms. This course conveys the principles of distributed/parallel system design with the state-of-the-art deep learning progress.  
 
-This course is project based. Stuents will work in teams and propose their own project idea. Students will get a chance to run with 100s of A100 GPUs on NERSC Perlmutter and NCSA Delta Supercomputers. 
+This course is project based. Students will work in teams and propose their own project idea. Students will get a chance to run with 100s of A100 GPUs on NERSC Perlmutter and NCSA Delta Supercomputers. 
 
 Examples projects in Fall 2023 are:
 - Enhancing BLIP-2: Implementing Multi-GPU Training
