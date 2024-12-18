@@ -36,7 +36,8 @@ author_profile: true
 
 ### I/O and Storage
 - Thakur, Rajeev, William Gropp, and Ewing Lusk. ["On implementing MPI-IO portably and with high performance."](https://dl.acm.org/doi/abs/10.1145/301816.301826) In Proceedings of the sixth workshop on I/O in parallel and distributed systems, pp. 23-32. 1999.
-- Iskra, Kamil, John W. Romein, Kazutomo Yoshii, and Pete Beckman. ["ZOID: I/O-forwarding infrastructure for petascale architectures."](https://dl.acm.org/doi/abs/10.1145/1345206.1345230) In Proceedings of the 13th ACM SIGPLAN Symposium on Principles and practice of parallel programming, pp. 153-162. 2008.
 - Folk, Mike, Gerd Heber, Quincey Koziol, Elena Pourmal, and Dana Robinson. ["An overview of the HDF5 technology suite and its applications."](https://dl.acm.org/doi/abs/10.1145/1966895.1966900) In Proceedings of the EDBT/ICDT 2011 workshop on array databases, pp. 36-47. 2011.
+- Chen, Peter M., Edward K. Lee, Garth A. Gibson, Randy H. Katz, and David A. Patterson. ["RAID: High-performance, reliable secondary storage."](https://dl.acm.org/doi/abs/10.1145/176979.176981) ACM Computing Surveys (CSUR) 26, no. 2 (1994): 145-185.
+- Patil, Swapnil V., Garth A. Gibson, Sam Lang, and Milo Polte. ["GIGA+ scalable directories for shared file systems."](https://dl.acm.org/doi/abs/10.1145/1374596.1374604) In Proceedings of the 2nd international workshop on Petascale data storage: held in conjunction with Supercomputing'07, pp. 26-29. 2007.
 
 ### Applications
