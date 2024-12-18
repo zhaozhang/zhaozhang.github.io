@@ -15,8 +15,8 @@ main:
   - title: "Projects"
     url: /projects/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "HPC Reading"
+    url: /hpc/
     
   #- title: "CV"
   #  url: /cv/
