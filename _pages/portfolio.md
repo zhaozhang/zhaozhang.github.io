@@ -10,7 +10,10 @@ author_profile: true
 
 # Current Students
 - Shuyuan Fan
+- Kun Lin
+- Fangru Linghu
 - Jingxin Wang
+- Molang Wu
 - Haotian Xie
 - Mingkai Zheng
 
