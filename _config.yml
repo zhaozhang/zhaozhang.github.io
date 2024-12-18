@@ -268,7 +268,15 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+  # _HPC
+  - scope:
+      path: ""
+      type: HPC
+    values:
+      layout: single
       author_profile: true
       share: true
 
