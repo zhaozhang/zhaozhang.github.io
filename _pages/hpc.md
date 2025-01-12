@@ -32,6 +32,7 @@ author_profile: true
 - Agullo, Emmanuel, Jim Demmel, Jack Dongarra, Bilel Hadri, Jakub Kurzak, Julien Langou, Hatem Ltaief, Piotr Luszczek, and Stanimire Tomov. ["Numerical linear algebra on emerging architectures: The PLASMA and MAGMA projects."](https://iopscience.iop.org/article/10.1088/1742-6596/180/1/012037/meta) In Journal of Physics: Conference Series, vol. 180, no. 1, p. 012037. IOP Publishing, 2009.
 - Choi, Jaeyoung, Jack J. Dongarra, Roldan Pozo, and David W. Walker. ["ScaLAPACK: A scalable linear algebra library for distributed memory concurrent computers."](https://www.computer.org/csdl/proceedings-article/fmpc/1992/00234898/12OmNCctfdR) In The Fourth Symposium on the Frontiers of Massively Parallel Computation, pp. 120-121. IEEE Computer Society, 1992.
 - Dongarra, Jack J., Piotr Luszczek, and Antoine Petitet. ["The LINPACK benchmark: past, present and future."](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.728) Concurrency and Computation: practice and experience 15, no. 9 (2003): 803-820.
+- Williams, Samuel, Leonid Oliker, Richard Vuduc, John Shalf, Katherine Yelick, and James Demmel. ["Optimization of sparse matrix-vector multiplication on emerging multicore platforms."](https://dl.acm.org/doi/abs/10.1145/1362622.1362674?casa_token=C73C7v3OFHsAAAAA:_p_s_uWe_Iu7Axl28fTPvB5we-xalDi3vlio0Ks2XrnfofeUq6bmU_PbzfzaiGLQRPzSzbovwRFQzg) In Proceedings of the 2007 ACM/IEEE Conference on Supercomputing, pp. 1-12. 2007.
 
 
 ### I/O and Storage
@@ -41,3 +42,16 @@ author_profile: true
 - Patil, Swapnil V., Garth A. Gibson, Sam Lang, and Milo Polte. ["GIGA+ scalable directories for shared file systems."](https://dl.acm.org/doi/abs/10.1145/1374596.1374604) In Proceedings of the 2nd international workshop on Petascale data storage: held in conjunction with Supercomputing'07, pp. 26-29. 2007.
 
 ### Applications
+- Datta, Kaushik, Mark Murphy, Vasily Volkov, Samuel Williams, Jonathan Carter, Leonid Oliker, David Patterson, John Shalf, and Katherine Yelick. ["Stencil computation optimization and auto-tuning on state-of-the-art multicore architectures."](https://ieeexplore.ieee.org/abstract/document/5222004/?casa_token=2MwitXx67hkAAAAA:cMX0_k8bZN_IjS0u-_CCM1fx28inXXVl9FuX3ImqkQUZNWqgw8XEmSz7sx_6gCdP2Wc2-15B-OI) In SC'08: Proceedings of the 2008 ACM/IEEE conference on Supercomputing, pp. 1-12. IEEE, 2008.
+- Warren, Michael S., and John K. Salmon. ["Astrophysical N-body simulations using hierarchical tree data structures."](https://www.thesalmons.org/john/ftp/sc92.pdf) SC 92 (1992): 570-576.
+- Sengupta, Shubhabrata, Mark Harris, Yao Zhang, and John D. Owens. ["Scan primitives for GPU computing."](https://escholarship.org/uc/item/8051p6nd) (2007).
+- Buluç, Aydin, and Kamesh Madduri. ["Parallel breadth-first search on distributed memory systems."](https://dl.acm.org/doi/abs/10.1145/2063384.2063471?casa_token=1eobK6Ln8JkAAAAA:giiF6-F3fse6gIIwscVJWo69F9QRKBnIYE0LoJDZvNwuy6mN4r5TSUuqDh5X1K2D2lR53koScFhpKQ) In Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-12. 2011.
+- Holst, Terry L. ["Supercomputer applications in computational fluid dynamics."](https://ieeexplore.ieee.org/abstract/document/74132/) In Supercomputing'88: Proceedings of the 1988 ACM/IEEE Conference on Supercomputing, Vol. II Science and Applications, pp. 51-60. IEEE, 1988.
+- Molecular Dynamics
+- Deep Learning
+
+### Performance Modeling
+- Gibbons, Phillip B. ["A more practical PRAM model."](https://dl.acm.org/doi/pdf/10.1145/72935.72953) In Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, pp. 158-168. 1989.
+- Culler, David, Richard Karp, David Patterson, Abhijit Sahay, Klaus Erik Schauser, Eunice Santos, Ramesh Subramonian, and Thorsten Von Eicken. ["LogP: Towards a realistic model of parallel computation."](https://dl.acm.org/doi/abs/10.1145/155332.155333) In Proceedings of the fourth ACM SIGPLAN symposium on Principles and practice of parallel programming, pp. 1-12. 1993.
+- Valiant, Leslie G. ["A bridging model for multi-core computing."](https://www.sciencedirect.com/science/article/pii/S0022000010000966) Journal of Computer and System Sciences 77, no. 1 (2011): 154-166.
+- Williams, Samuel, Andrew Waterman, and David Patterson. ["Roofline: an insightful visual performance model for multicore architectures."](https://dl.acm.org/doi/abs/10.1145/1498765.1498785) Communications of the ACM 52, no. 4 (2009): 65-76.
