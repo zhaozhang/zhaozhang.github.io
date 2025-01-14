@@ -41,6 +41,12 @@ author_profile: true
 - Chen, Peter M., Edward K. Lee, Garth A. Gibson, Randy H. Katz, and David A. Patterson. ["RAID: High-performance, reliable secondary storage."](https://dl.acm.org/doi/abs/10.1145/176979.176981) ACM Computing Surveys (CSUR) 26, no. 2 (1994): 145-185.
 - Patil, Swapnil V., Garth A. Gibson, Sam Lang, and Milo Polte. ["GIGA+ scalable directories for shared file systems."](https://dl.acm.org/doi/abs/10.1145/1374596.1374604) In Proceedings of the 2nd international workshop on Petascale data storage: held in conjunction with Supercomputing'07, pp. 26-29. 2007.
 
+### Performance Modeling
+- Gibbons, Phillip B. ["A more practical PRAM model."](https://dl.acm.org/doi/pdf/10.1145/72935.72953) In Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, pp. 158-168. 1989.
+- Culler, David, Richard Karp, David Patterson, Abhijit Sahay, Klaus Erik Schauser, Eunice Santos, Ramesh Subramonian, and Thorsten Von Eicken. ["LogP: Towards a realistic model of parallel computation."](https://dl.acm.org/doi/abs/10.1145/155332.155333) In Proceedings of the fourth ACM SIGPLAN symposium on Principles and practice of parallel programming, pp. 1-12. 1993.
+- Valiant, Leslie G. ["A bridging model for multi-core computing."](https://www.sciencedirect.com/science/article/pii/S0022000010000966) Journal of Computer and System Sciences 77, no. 1 (2011): 154-166.
+- Williams, Samuel, Andrew Waterman, and David Patterson. ["Roofline: an insightful visual performance model for multicore architectures."](https://dl.acm.org/doi/abs/10.1145/1498765.1498785) Communications of the ACM 52, no. 4 (2009): 65-76.
+
 ### Applications
 - Solomonik, Edgar, and James Demmel. ["Communication-optimal parallel 2.5 D matrix multiplication and LU factorization algorithms."](https://link.springer.com/chapter/10.1007/978-3-642-23397-5_10) In European Conference on Parallel Processing, pp. 90-109. Berlin, Heidelberg: Springer Berlin Heidelberg, 2011.
 - Agarwal, Ramesh C., Susanne M. Balle, Fred G. Gustavson, Mahesh Joshi, and Prasad Palkar. ["A three-dimensional approach to parallel matrix multiplication."](https://ieeexplore.ieee.org/abstract/document/5389455/) IBM Journal of Research and Development 39, no. 5 (1995): 575-582.
@@ -51,8 +57,3 @@ author_profile: true
 - Holst, Terry L. ["Supercomputer applications in computational fluid dynamics."](https://ieeexplore.ieee.org/abstract/document/74132/) In Supercomputing'88: Proceedings of the 1988 ACM/IEEE Conference on Supercomputing, Vol. II Science and Applications, pp. 51-60. IEEE, 1988.
 - Dubey, Abhimanyu, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, Akhil Mathur et al. ["The llama 3 herd of models."](https://arxiv.org/abs/2407.21783) arXiv preprint arXiv:2407.21783 (2024).
 
-### Performance Modeling
-- Gibbons, Phillip B. ["A more practical PRAM model."](https://dl.acm.org/doi/pdf/10.1145/72935.72953) In Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, pp. 158-168. 1989.
-- Culler, David, Richard Karp, David Patterson, Abhijit Sahay, Klaus Erik Schauser, Eunice Santos, Ramesh Subramonian, and Thorsten Von Eicken. ["LogP: Towards a realistic model of parallel computation."](https://dl.acm.org/doi/abs/10.1145/155332.155333) In Proceedings of the fourth ACM SIGPLAN symposium on Principles and practice of parallel programming, pp. 1-12. 1993.
-- Valiant, Leslie G. ["A bridging model for multi-core computing."](https://www.sciencedirect.com/science/article/pii/S0022000010000966) Journal of Computer and System Sciences 77, no. 1 (2011): 154-166.
-- Williams, Samuel, Andrew Waterman, and David Patterson. ["Roofline: an insightful visual performance model for multicore architectures."](https://dl.acm.org/doi/abs/10.1145/1498765.1498785) Communications of the ACM 52, no. 4 (2009): 65-76.
