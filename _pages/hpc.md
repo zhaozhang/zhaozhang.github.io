@@ -42,13 +42,14 @@ author_profile: true
 - Patil, Swapnil V., Garth A. Gibson, Sam Lang, and Milo Polte. ["GIGA+ scalable directories for shared file systems."](https://dl.acm.org/doi/abs/10.1145/1374596.1374604) In Proceedings of the 2nd international workshop on Petascale data storage: held in conjunction with Supercomputing'07, pp. 26-29. 2007.
 
 ### Applications
+- Solomonik, Edgar, and James Demmel. ["Communication-optimal parallel 2.5 D matrix multiplication and LU factorization algorithms."](https://link.springer.com/chapter/10.1007/978-3-642-23397-5_10) In European Conference on Parallel Processing, pp. 90-109. Berlin, Heidelberg: Springer Berlin Heidelberg, 2011.
+- Agarwal, Ramesh C., Susanne M. Balle, Fred G. Gustavson, Mahesh Joshi, and Prasad Palkar. ["A three-dimensional approach to parallel matrix multiplication."](https://ieeexplore.ieee.org/abstract/document/5389455/) IBM Journal of Research and Development 39, no. 5 (1995): 575-582.
 - Datta, Kaushik, Mark Murphy, Vasily Volkov, Samuel Williams, Jonathan Carter, Leonid Oliker, David Patterson, John Shalf, and Katherine Yelick. ["Stencil computation optimization and auto-tuning on state-of-the-art multicore architectures."](https://ieeexplore.ieee.org/abstract/document/5222004/?casa_token=2MwitXx67hkAAAAA:cMX0_k8bZN_IjS0u-_CCM1fx28inXXVl9FuX3ImqkQUZNWqgw8XEmSz7sx_6gCdP2Wc2-15B-OI) In SC'08: Proceedings of the 2008 ACM/IEEE conference on Supercomputing, pp. 1-12. IEEE, 2008.
 - Warren, Michael S., and John K. Salmon. ["Astrophysical N-body simulations using hierarchical tree data structures."](https://www.thesalmons.org/john/ftp/sc92.pdf) SC 92 (1992): 570-576.
 - Sengupta, Shubhabrata, Mark Harris, Yao Zhang, and John D. Owens. ["Scan primitives for GPU computing."](https://escholarship.org/uc/item/8051p6nd) (2007).
 - Buluç, Aydin, and Kamesh Madduri. ["Parallel breadth-first search on distributed memory systems."](https://dl.acm.org/doi/abs/10.1145/2063384.2063471?casa_token=1eobK6Ln8JkAAAAA:giiF6-F3fse6gIIwscVJWo69F9QRKBnIYE0LoJDZvNwuy6mN4r5TSUuqDh5X1K2D2lR53koScFhpKQ) In Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-12. 2011.
 - Holst, Terry L. ["Supercomputer applications in computational fluid dynamics."](https://ieeexplore.ieee.org/abstract/document/74132/) In Supercomputing'88: Proceedings of the 1988 ACM/IEEE Conference on Supercomputing, Vol. II Science and Applications, pp. 51-60. IEEE, 1988.
-- Molecular Dynamics
-- Deep Learning
+- Dubey, Abhimanyu, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad Al-Dahle, Aiesha Letman, Akhil Mathur et al. ["The llama 3 herd of models."](https://arxiv.org/abs/2407.21783) arXiv preprint arXiv:2407.21783 (2024).
 
 ### Performance Modeling
 - Gibbons, Phillip B. ["A more practical PRAM model."](https://dl.acm.org/doi/pdf/10.1145/72935.72953) In Proceedings of the first annual ACM symposium on Parallel algorithms and architectures, pp. 158-168. 1989.
