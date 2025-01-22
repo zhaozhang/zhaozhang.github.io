@@ -15,6 +15,7 @@ author_profile: true
 - Jingxin Wang
 - Molang Wu
 - Haotian Xie
+- [Daiheng Zhang](https://daiheng-zhang.github.io)
 - Mingkai Zheng
 
 # Students Graduated
