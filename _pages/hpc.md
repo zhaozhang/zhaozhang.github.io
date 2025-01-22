@@ -51,6 +51,9 @@ author_profile: true
 1. Hoefler, Torsten, Timo Schneider, and Andrew Lumsdaine. ["Characterizing the influence of system noise on large-scale applications by simulation."](https://ieeexplore.ieee.org/abstract/document/5645455) In SC'10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-11. IEEE, 2010.
 1. Hoefler, Torsten, and Roberto Belli. ["Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results."](https://dl.acm.org/doi/abs/10.1145/2807591.2807644) In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-12. 2015.
 
+### Connecting Supercomputers
+1. Foster, Ian, and Carl Kesselman. ["Globus: A metacomputing infrastructure toolkit."](https://journals.sagepub.com/doi/abs/10.1177/109434209701100205) The International Journal of Supercomputer Applications and High Performance Computing 11, no. 2 (1997): 115-128.
+
 ### Applications
 1. Solomonik, Edgar, and James Demmel. ["Communication-optimal parallel 2.5 D matrix multiplication and LU factorization algorithms."](https://link.springer.com/chapter/10.1007/978-3-642-23397-5_10) In European Conference on Parallel Processing, pp. 90-109. Berlin, Heidelberg: Springer Berlin Heidelberg, 2011.
 1. Agarwal, Ramesh C., Susanne M. Balle, Fred G. Gustavson, Mahesh Joshi, and Prasad Palkar. ["A three-dimensional approach to parallel matrix multiplication."](https://ieeexplore.ieee.org/abstract/document/5389455/) IBM Journal of Research and Development 39, no. 5 (1995): 575-582.
