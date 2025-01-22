@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-# HPC Reading List
+## HPC Reading List
+### Edited by: Zhao Zhang. Reviewed by: William D. Gropp. Other reviews are pending.
 
 ### Interconnect
 1. Scott, Steve, Dennis Abts, John Kim, and William J. Dally. ["The blackwidow high-radix clos network."](https://dl.acm.org/doi/abs/10.1145/1150019.1136488) ACM SIGARCH Computer Architecture News 34, no. 2 (2006): 16-28.
