@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ### Highlighted Recent Papers
-- [Nature Methods'24] Ahdritz, Gustaf, Nazim Bouatta, Christina Floristean, Sachin Kadyan, Qinghui Xia, William Gerecke, Timothy J. O’Donnell et al. ]"OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization."](https://www.nature.com/articles/s41592-024-02272-z) Nature Methods (2024): 1-11.
+- [Nature Methods'24] Ahdritz, Gustaf, Nazim Bouatta, Christina Floristean, Sachin Kadyan, Qinghui Xia, William Gerecke, Timothy J. O’Donnell et al. ["OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization."](https://www.nature.com/articles/s41592-024-02272-z) Nature Methods (2024): 1-11.
 - [NeurIPS'23] Mozaffari, Mohammad, Sikan Li, Zhao Zhang, and Maryam Mehri Dehnavi. ["MKOR: Momentum-Enabled Kronecker-Factor-Based Optimizer Using Rank-1 Updates."](https://arxiv.org/abs/2306.01685). Advances in Neural Information Processing Systems 36 (2024).
 - [SC'23] Q. Ding, P. Zheng, S. Kudari, S. Venkataraman, Z. Zhang. ["Mirage: Towards Low-interruption Services on Batch GPU Clusters with Reinforcement Learning."](https://arxiv.org/abs/2306.14086)  In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-13. 2023.
 - [SC'23] E. Karrels, L. Huang, Y. Kan, I. Arora, Y. Wang, D. S. Katz, B. D. Gropp, Z. Zhang. ["Fine-grained Policy-driven I/O Sharing for Burst Buffers."](https://arxiv.org/abs/2306.11615) In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-12. 2023.
