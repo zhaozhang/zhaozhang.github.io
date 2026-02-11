@@ -36,7 +36,6 @@ author_profile: true
 1. Choi, Jaeyoung, Jack J. Dongarra, Roldan Pozo, and David W. Walker. ["ScaLAPACK: A scalable linear algebra library for distributed memory concurrent computers."](https://www.computer.org/csdl/proceedings-article/fmpc/1992/00234898/12OmNCctfdR) In The Fourth Symposium on the Frontiers of Massively Parallel Computation, pp. 120-121. IEEE Computer Society, 1992.
 1. Dongarra, Jack J., Piotr Luszczek, and Antoine Petitet. ["The LINPACK benchmark: past, present and future."](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.728) Concurrency and Computation: practice and experience 15, no. 9 (2003): 803-820.
 1. Williams, Samuel, Leonid Oliker, Richard Vuduc, John Shalf, Katherine Yelick, and James Demmel. ["Optimization of sparse matrix-vector multiplication on emerging multicore platforms."](https://dl.acm.org/doi/abs/10.1145/1362622.1362674?casa_token=C73C7v3OFHsAAAAA:_p_s_uWe_Iu7Axl28fTPvB5we-xalDi3vlio0Ks2XrnfofeUq6bmU_PbzfzaiGLQRPzSzbovwRFQzg) In Proceedings of the 2007 ACM/IEEE Conference on Supercomputing, pp. 1-12. 2007.
-1. Kolda, Tamara G., and Brett W. Bader. ["Tensor decompositions and applications."](https://epubs.siam.org/doi/abs/10.1137/07070111x?casa_token=6VETq5vUVRUAAAAA:6sdYXHBUvAaybtBUtAT01O4E5pzLDXHC60xOSfyf7xbnvTntisKMSptzR2s3wbTuK6pvIHx7ytA) SIAM review 51, no. 3 (2009): 455-500.
 
 
 ### I/O and Storage
