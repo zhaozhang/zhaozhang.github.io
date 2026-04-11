@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %}
 
 ### Highlighted Recent Papers
+- [FGCS'26] Jingxin Wang, Shuyuan Fan, Zhao Zhang. ["Ciri: Scaling-aware Job Scheduling for Small Language Models on Over-committed GPU Clusters"] to appear in Future Generation Computer Systems (2026)
 - [SC'25] Yu Sun, Zachary Coalson, Shiyang Chen, Hang Liu, Zhao Zhang, Sanghyun Hong, Bo Fang and Lishan Yang. ["Demystifying the Resilience of Large Language Models: An End-to-End Perspective."] In the International Conference for High-Performance Computing, Networking, Storage, and Analysis (SC25), 2025
 - [eScience'25] Xie, Haotian, Rohan Marwaha, Minu Mathew, Song Bian, Gengcong Yang, Minghao Yan, Yadu Babuji, Owen Price, Yinzhi Wang, Volodymyr Kindratenko, Shivaram Venkataraman, Kyle Chard, Ian T. Foster, Zhao Zhang. ["Diamond: Harnessing GPU Resources for Scientific Deep Learning."](https://ieeexplore.ieee.org/abstract/document/11181545/) In 2025 IEEE International Conference on eScience (eScience), pp. 196-204. IEEE, 2025.
 - [HPDC'25] Yu Sun, Zhu Zhu, Cherish Mulpuru, Roberto Gioiosa, Zhao Zhang, Bo Fang, Lishan Yang. ["FT2: First-Token-Inspired Online Fault Tolerance on Critical Layers for Generative Large Language Models"](https://dl.acm.org/doi/pdf/10.1145/3731545.3731570) In Proceedings of the 34th International Symposium on High-Performance Parallel and Distributed Computing, pp. 1-14, 2025.
