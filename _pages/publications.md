@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %}
 
 ### Highlighted Recent Papers
+- [TPDS'26] Michael Mogilevsky, Hazem Zaky, Yu Sun, Mingkai Zheng, Lishan Yang, Zhao Zhang. ["Quantifying Performance Variability in GPU Clusters"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11481967) in IEEE Transactions on Parallel and Distributed Systems
 - [FGCS'26] Jingxin Wang, Shuyuan Fan, Zhao Zhang. ["Ciri: Scaling-aware Job Scheduling for Small Language Models on Over-committed GPU Clusters"]() to appear in Future Generation Computer Systems (2026)
 - [SC'25] Yu Sun, Zachary Coalson, Shiyang Chen, Hang Liu, Zhao Zhang, Sanghyun Hong, Bo Fang and Lishan Yang. ["Demystifying the Resilience of Large Language Models: An End-to-End Perspective."](https://dl.acm.org/doi/10.1145/3712285.3759803) In the International Conference for High-Performance Computing, Networking, Storage, and Analysis (SC25), 2025
 - [eScience'25] Xie, Haotian, Rohan Marwaha, Minu Mathew, Song Bian, Gengcong Yang, Minghao Yan, Yadu Babuji, Owen Price, Yinzhi Wang, Volodymyr Kindratenko, Shivaram Venkataraman, Kyle Chard, Ian T. Foster, Zhao Zhang. ["Diamond: Harnessing GPU Resources for Scientific Deep Learning."](https://ieeexplore.ieee.org/abstract/document/11181545/) In 2025 IEEE International Conference on eScience (eScience), pp. 196-204. IEEE, 2025.
